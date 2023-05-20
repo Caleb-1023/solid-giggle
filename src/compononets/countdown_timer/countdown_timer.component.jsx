@@ -35,7 +35,7 @@ const CountdownTimer = () => {
   return (
     <div className="countdown_timer">
         <h1>Coming Soon</h1>
-        <Countdown date={'2023-06-29T09:00:00'} renderer={renderer} />
+        <Countdown date={'2023-07-29T09:00:00'} renderer={renderer} />
     </div>
   )
 }
